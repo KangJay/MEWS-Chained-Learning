@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Mews Chained Learning
 
-You can use the [editor on GitHub](https://github.com/KangJay/MEWS-Chained-Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Recreation of chained-learning to mimic the benefits of localized central repository learning between researchers. The weight and model sharing scheme is intended to be anonymous -- adding a layer of privacy. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
